@@ -1,0 +1,7 @@
+Interested KPIS
+1 Networth
+2 Income
+3 Expenditure percentage
+4 Savings percentage
+5 Development 
+6 Project Amount
